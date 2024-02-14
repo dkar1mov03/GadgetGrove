@@ -1,5 +1,11 @@
-﻿namespace GadgetGrove.Domain.Entities.WhereHouses;
+﻿using GadgetGrove.Domain.Commons;
+using GadgetGrove.Domain.Enums.Locations;
 
-public class Location
+namespace GadgetGrove.Domain.Entities.WhereHouses;
+
+public class Location : Auditable
 {
+    public long Code { get; set; }
+    public LocationType Type { get; set; }
+    public string Description { get; set; }
 }

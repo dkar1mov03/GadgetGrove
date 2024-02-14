@@ -2,12 +2,11 @@
 
 public enum AccessoriesType
 {
-    gadjet,
-    chehol,
-    steklo,
-    mishka,
-    sumka,
-    ryugzak,
-    kabel,
-
+    phones,
+    planshets,
+    notebook,
+    tv,
+    smartwatch,
+    headphones,
+    gadgets,
 }

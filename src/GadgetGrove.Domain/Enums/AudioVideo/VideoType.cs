@@ -2,6 +2,9 @@
 
 public enum VideoType
 {
-    monitor,
-    ekran
+    headphones,
+    portable_speakers,
+    soundbars,
+    monitors,
+    screens,
 }

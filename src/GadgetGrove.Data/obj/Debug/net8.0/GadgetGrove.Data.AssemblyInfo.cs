@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GadgetGrove.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5607831f0f7e20870a1afc17c1e1dd4041da389e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abc6dec7ac184a2b78aa99124363a0be877ddb05")]
 [assembly: System.Reflection.AssemblyProductAttribute("GadgetGrove.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GadgetGrove.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
