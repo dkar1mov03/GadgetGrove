@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "yotx1nWKutWS/fMUG/ncsODRMXt06uyB0uVUCeNNxQuIcO1lRsyd5GfKv6jDyEOthp4sQCq4yjcZiws3ocDtzw==",
+  "dgSpecHash": "swPLkH/qiWGlnPthTQAX7JGssTvPuoyrn5VL/fkFq3JAyxycfL+zyN8mZg4BMyxOLRgggwZCWT0IERWMNsjSyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP-Victus\\source\\repos\\GadgetGrove\\src\\GadgetGrove.Shared\\GadgetGrove.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\HP-Victus\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
