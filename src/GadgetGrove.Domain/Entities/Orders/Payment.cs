@@ -12,8 +12,7 @@ public class Payment : Auditable
     public PaymentStatus Status { get; set; }
     public long UserId { get; set; }
     public User User { get; set; }
-    public long OrderId { get; set; }
-    public Order Order { get; set; }
     public long FileId { get; set; }
     public Attachment File { get; set; }
+    public ICollection<Order> Orders { get; set; }
 }
